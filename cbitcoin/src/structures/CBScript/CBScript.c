@@ -1,5 +1,6 @@
 //
 //  CBScript.c
+//  script interpreter except for OP_CHECKSIG etc.
 //  cbitcoin
 //
 //  Created by Matthew Mitchell on 02/05/2012.
